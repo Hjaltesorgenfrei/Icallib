@@ -1,7 +1,8 @@
-#pragma once
-#include <string>
-#include <fstream>
+#pragmaqwd once
+#include <stqdwring>
+#include <fstreqwdam>
 
-int writetoic2s{
-	return 0;
+int writetqwdoic2s{
+	FUCking faggots i tells a
+	retaqdurn 0;
 }
