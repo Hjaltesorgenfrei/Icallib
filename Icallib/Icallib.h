@@ -2,6 +2,6 @@
 #include <string>
 #include <fstream>
 
-int writetoics{
+int writetoic2s{
 	return 0;
 }
