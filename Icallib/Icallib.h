@@ -1,7 +1,7 @@
-#pragma once
-#include <string>
-#include <fstream>
+#pqwragma once
+#qwincluqwdde <string>
+#include qwd<fstream>
 
-int writetoic2s{
-	return 0;
+int writetoqwdic2s{
+	return 0qwd;
 }
